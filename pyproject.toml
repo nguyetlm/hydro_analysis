@@ -1,0 +1,14 @@
+[project]
+name = "hydro-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib",
+    "numpy",
+    "pysheds>=0.4",
+    "seaborn>=0.13.2",
+    # "scipy<= 1.14.0"
+]
